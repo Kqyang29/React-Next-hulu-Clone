@@ -2,6 +2,20 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Vercel Deploy URL:
+  - https://react-next-hulu-clone.vercel.app/
+  
+Tech:
+  - NextJs
+  - Tailwind CSS
+  - Hero Icons
+  - react-flip-move
+  - tailwind-scrollbar-hide
+  
+Feature:
+  - Data API from TMDB https://www.themoviedb.org/
+  - Fully Responsive
+
 First, run the development server:
 
 ```bash
